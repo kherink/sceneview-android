@@ -15,3 +15,5 @@ include ':sample-ar-model-viewer'
 project(':sample-ar-model-viewer').projectDir = new File('samples/ar-model-viewer')
 include ':sample-ar-cursor-placement'
 project(':sample-ar-cursor-placement').projectDir = new File('samples/ar-cursor-placement')
+include ':ar-position-tracking'
+project(':ar-position-tracking').projectDir = new File('samples/ar-position-tracking')
